@@ -2,7 +2,4 @@
 # -*- coding utf-8 -*-
 
 
-a=float(input('f='))
-
-c=(a-32)/1.8
-print('c=',c)
+print(sum(list(map(int,input('enter')))))
